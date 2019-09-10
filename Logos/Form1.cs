@@ -48,6 +48,8 @@ namespace Logos
             g.DrawRectangle(DrawPen2, 30, 30, 100, 200);
             g.FillRectangle(drawBrush2, 30, 30, 100, 200);
 
+            //this is a test comment
+
 
 
 
